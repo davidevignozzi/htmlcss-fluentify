@@ -109,7 +109,7 @@ a{
 .sfondo img{
  margin-left: 20%;
  width: 80%;
- height: 496px;
+ height: 490px;
 }
 
 .slogan{
@@ -139,4 +139,26 @@ a{
   background-color: #7CBB02;
   margin-top:30px;
   text-align: center;
+}
+
+/* parte grigia */
+.container-grey{
+  background-color:#D3D3D3;
+  height: 200px;
+  width: 1400px;
+}
+
+.title-grey{
+  padding-top: 50px;
+}
+
+.title-grey h1{
+  text-align: center;
+}
+
+ .sub-title-grey{
+   padding-top: 10px;
+  text-align: center;
+  color: grey;
+  font-size: 26px;
 }
