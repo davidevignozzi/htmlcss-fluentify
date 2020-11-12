@@ -168,6 +168,7 @@ a{
 /* main */
 .first-part{
   height: 800px;
+  border-bottom: 1px solid #D3D3D3;
 }
 
 .main-block{
@@ -196,4 +197,42 @@ a{
   color: grey;
   text-align: center;
   padding-top: 15px;
+}
+/* fine prima parte */
+
+.second-part{
+ height: 800px;
+}
+
+.second-part-block{
+  width: 500px;
+
+}
+
+.second-part-block img{
+  width: 500px;
+  height: 500px;
+  margin-left: 200px;
+}
+
+.scritte{
+  padding-top: 120px;
+  margin-left: 300px;
+}
+
+.scritte > h3{
+  font-size: 40px;
+}
+
+.scritte > p{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 25px;
+  color: grey;
+}
+
+.scritte > a{
+  text-decoration: underline;
+  font-size: 20px;
+  color: #659CD3;
 }
